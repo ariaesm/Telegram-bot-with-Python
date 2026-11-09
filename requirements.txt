@@ -1,0 +1,2 @@
+python-telegram-bot[job-queue]>=21,<22
+pytest>=8
