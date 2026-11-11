@@ -46,8 +46,8 @@ tests/           # pytest tests for the pure modules
 Requires Python 3.11+ (CI runs 3.12).
 
 ```bash
-git clone https://github.com/ariaesm/telegram-bot-with-python.git
-cd telegram-bot-with-python
+git clone https://github.com/ariaesm/Telegram-bot-with-Python.git
+cd Telegram-bot-with-Python
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 ```
